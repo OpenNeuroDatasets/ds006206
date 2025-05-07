@@ -1,9 +1,11 @@
 {
     "Name": "amri_epi",
     "BIDSVersion": "v1.9.0",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-        ""
+        "",
+        "Shuxian Qu",
+        "Xiaoping Wu"
     ],
     "Acknowledgments": "",
     "HowToAcknowledge": "",
@@ -15,4 +17,3 @@
     ],
     "DatasetDOI": ""
 }
-
