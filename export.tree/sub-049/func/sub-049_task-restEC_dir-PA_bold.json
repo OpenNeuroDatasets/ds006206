@@ -1,7 +1,0 @@
-{
-  "TaskName": "restEC",
-  "RepetitionTime": 2.34,
-  "PhaseEncodingDirection": "j-",
-  "EffectiveEchoSpacing": 0.00018,
-  "EchoTime": 0.021
-}
