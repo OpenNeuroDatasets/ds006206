@@ -31,7 +31,7 @@
     "ReferencesAndLinks": [
         "Custom built workflow for data processing:"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006206.v2.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006206.v2.0.3",
     "Acknowledgements": "The authors would like to honor and remember Pierre-Francois Van de Moortele for his invaluable contributions to ultrahigh field MRI in general and 10.5 T MRI in particular, which pave the way for the current study. The authors would like to thank Jerahmie Radder, Scott Lynch, and Carlos Soria from the CMRR for their assistance with setting up computation resources. The authors would also like to acknowledge Dr. Yuncong Ma from the CMRR for stimulating discussion on functional connectivity. ",
     "EthicsApprovals": [
         "This study is approved by local IRB at the University of Minnesota"
