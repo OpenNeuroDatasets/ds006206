@@ -1,3 +1,3 @@
-* Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils
+#Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils#
 
 This project aims to study how motion robust 3D EPI with amri_epi would help improve BOLD fMRI of the human brain at 10.5T.
