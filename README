@@ -18,7 +18,7 @@ For each condition, two runs of fMRI data were collected. Each run was acquired 
 
 To facilitate subsequent anatomy-based fMRI processing and analysis, we collected whole-brain anatomical reference images using a T1-weighted 3D magnetization prepared two rapid acquisition gradient echoes (MP2RAGE) sequence. For each volunteer, the MP2RAGE was acquired at 1 mm isotropic resolution with CP mode excitation. Other relevant imaging parameters were: TR/TE=5000/1.64 ms, TI1/TI2= 1100/2500 ms, FA1/FA2=5˚/5˚ and scan time=~7 min. 
 
-We reconstructed fMRI timeseries on a volume-by-volume basis using in-house MATLAB software made publicly available at https://github.com/jiaen-liu/moco. In particular, fMRI timeseries were reconstructed with joint motion and field correction (restEO, restEC). For comparison, the same k-space raw data were also used to reconstruct fMRI timeseries without motion or field correction (restNocoEO, restNocoEC). 
+We reconstructed fMRI timeseries on a volume-by-volume basis using in-house MATLAB software made publicly available at https://github.com/jiaen-liu/moco. In particular, fMRI timeseries were reconstructed with navigator-based joint motion and field correction (restEO, restEC). For comparison, the same k-space raw data were also used to reconstruct fMRI timeseries without motion or field correction (restNocoEO, restNocoEC). 
 
 PREPROCESSING
 
