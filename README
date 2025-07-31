@@ -1,7 +1,3 @@
-DATASET TITLE
-
-Motion-robust resting-state BOLD functional MRI in healthy adults at 10.5 Tesla
-
 DESCRIPTION
 
 Here we share the unprocessed and preprocessed BOLD functional MRI (fMRI) data from the paper: Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils. Shuxian Qu, Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Matt Waks, Russell Lagore, Alexander Bratch, Andrea Grant, Edward Auerbach, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil, and Xiaoping Wu. MRM 2025.
@@ -25,13 +21,13 @@ To facilitate subsequent anatomy-based fMRI processing and analysis, we collecte
 We reconstructed fMRI timeseries on a volume-by-volume basis using in-house MATLAB software made publicly available at https://github.com/jiaen-liu/moco. In particular, fMRI timeseries were reconstructed with joint motion and field correction (restEO, restEC). For comparison, the same k-space raw data were also used to reconstruct fMRI timeseries without motion or field correction (restNocoEO, restNocoEC). 
 
 PREPROCESSING
-Steps taken to process the raw data (e.g., motion correction, normalization).
 
-FILE STRUCTURE
-Explanation of the organization of files within the dataset.
+We conducted fMRI preprocessing using the fMRIPrep pipeline (https://fmriprep.org/en/latest).
 
 USAGE NOTES
-Any specific instructions or considerations for using the data.
+
+If you use the data, please consider citing the paper mentioned above.
 
 CONTACT
-Information for contacting the dataset creators.
+
+If you have any questions about the data, please reach out to Shuxian Qu at qu000109@umn.edu
