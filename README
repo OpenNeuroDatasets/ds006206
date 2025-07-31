@@ -1,3 +1,24 @@
-#Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils
+DATASET TITLE
+Motion-robust resting-state BOLD functional MRI in healthy adults at 10.5 Tesla
 
-This project aims to study how motion robust 3D EPI with amri_epi would help improve BOLD fMRI of the human brain at 10.5T.
+DESCRIPTION
+Here we share the unprocessed and preprocessed BOLD functional MRI data from the paper: Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils. Shuxian Qu, Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Matt Waks, Russell Lagore, Alexander Bratch, Andrea Grant, Edward Auerbach, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil, and Xiaoping Wu. MRM 2025.
+
+
+PARTICIPANTS
+Five healthy adults who signed a consent form were scanned. 
+
+DATA ACQUISITION
+Details about the scanner, sequence parameters, behavioral tasks.
+
+PREPROCESSING
+Steps taken to process the raw data (e.g., motion correction, normalization).
+
+FILE STRUCTURE
+Explanation of the organization of files within the dataset.
+
+USAGE NOTES
+Any specific instructions or considerations for using the data.
+
+CONTACT
+Information for contacting the dataset creators.
