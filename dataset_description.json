@@ -1,5 +1,5 @@
 {
-    "Name": "amri_epi",
+    "Name": "Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils",
     "BIDSVersion": "v1.9.0",
     "License": "CC0",
     "Authors": [
