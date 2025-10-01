@@ -1,0 +1,16 @@
+{
+  "Units": "Hz",
+  "B0FieldIdentifier": "b0map_fmap0",
+  "IntendedFor": [
+    "func/sub-037_task-restEC_dir-AP_bold.nii.gz",
+    "func/sub-037_task-restEC_dir-PA_bold.nii.gz",
+    "func/sub-037_task-restEO_dir-AP_bold.nii.gz",
+    "func/sub-037_task-restEO_dir-PA_bold.nii.gz",
+    "func/sub-037_task-restNocoEC_dir-AP_bold.nii.gz",
+    "func/sub-037_task-restNocoEC_dir-PA_bold.nii.gz",
+    "func/sub-037_task-restNocoEO_dir-AP_bold.nii.gz",
+    "func/sub-037_task-restNocoEO_dir-PA_bold.nii.gz",
+    "func/sub-037_task-restNomocoEO_dir-AP_bold.nii.gz",
+    "func/sub-037_task-restNomocoEO_dir-PA_bold.nii.gz"
+  ]
+}
