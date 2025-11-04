@@ -1,6 +1,6 @@
 DESCRIPTION
 
-Here we share the unprocessed and preprocessed BOLD functional MRI (fMRI) data from the paper: Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils. Shuxian Qu, Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Matt Waks, Russell Lagore, Alexander Bratch, Andrea Grant, Edward Auerbach, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil, and Xiaoping Wu. MRM 2025.
+Here we share the unprocessed and preprocessed BOLD functional MRI (fMRI) data from the paper: Advancing whole-brain BOLD functional MRI in humans at 10.5 T with motion-robust 3D echo-planar imaging, parallel transmission, and high-density radiofrequency receive coils. Shuxian Qu, Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Matt Waks, Russell Lagore, Alexander Bratch, Andrea Grant, Edward Auerbach, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil, and Xiaoping Wu. Magn Reson Med. 2025 Oct 17. doi: 10.1002/mrm.70110. Epub ahead of print. PMID: 41108198.
 
 Below we provide a brief description of the data. A detailed description of the data including acquisition, reconstruction, processing and analysis can be found in the paper cited above. 
 
